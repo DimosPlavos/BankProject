@@ -1,0 +1,25 @@
+SALESMAN_LIST
+{
+    SALESMAN
+    {
+        CODE 1001
+        SURNAME "PLAVOS"
+        FIRSTNAME "DIMOS"
+        AFM 32475
+
+    }
+    SALESMAN
+    {
+        CODE 1002
+        SURNAME "NYKTARAKIS"
+        FIRSTNAME "PANAGIOTIS"
+        AFM 21814
+    }
+    SALESMAN
+    {
+        CODE 1003
+        SURNAME "GEORGIOY"
+        FIRSTNAME "KOSTAS"
+        AFM 26910
+    }
+}

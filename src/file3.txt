@@ -1,0 +1,45 @@
+SALES_LIST
+{
+	SALES
+	{
+		SALESMAN_CODE 1
+		EXPLANATION "to buy a house"
+		BANKITEM_CODE 1
+	}
+
+	SALES
+	{
+		SALESMAN_CODE 2
+		EXPLANATION "to buy a car"
+		BANKITEM_CODE 2
+	}
+
+	SALES
+	{
+		SALESMAN_CODE 3
+		EXPLANATION "for a start-up"
+		BANKITEM_CODE 3
+	}
+
+	SALES
+	{
+		SALESMAN_CODE 1
+		EXPLANATION "to pay the bills"
+		BANKITEM_CODE 4
+	}
+
+	SALES
+	{
+		SALESMAN_CODE 2
+		EXPLANATION "for vacations"
+		BANKITEM_CODE 5
+	}
+
+	SALES
+	{
+		SALESMAN_CODE 3
+		EXPLANATION "for pay the house rent"
+		BANKITEM_CODE 6
+	}
+
+}

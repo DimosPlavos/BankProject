@@ -1,0 +1,87 @@
+TRN_LIST
+{
+	TRN
+	{
+		BANKITEM_CODE 4
+		JUSTIFICATION "food in KFC"
+		VAL 25.0
+	}
+
+	TRN
+	{
+		BANKITEM_CODE 4
+		JUSTIFICATION "hotel Grande Bretagne"
+		VAL 300.0
+	}
+
+	TRN
+	{
+		BANKITEM_CODE 4
+		JUSTIFICATION "taxi"
+		VAL 12.0
+	}
+
+	TRN
+	{
+		BANKITEM_CODE 4
+		JUSTIFICATION "night club"
+		VAL 100.0
+	}
+
+	TRN
+	{
+		BANKITEM_CODE 5
+		JUSTIFICATION "food in reastaurant"
+		VAL 90.0
+	}
+
+	TRN
+	{
+		BANKITEM_CODE 5
+		JUSTIFICATION "cocktail"
+		VAL 18.0
+	}
+
+	TRN
+	{
+		BANKITEM_CODE 5
+		JUSTIFICATION "shopping"
+		VAL 170.0
+	}
+
+	TRN
+	{
+		BANKITEM_CODE 5
+		JUSTIFICATION "pharmacy"
+		VAL 29.0
+	}
+
+	TRN
+	{
+		BANKITEM_CODE 6
+		JUSTIFICATION "gym payment"
+		VAL 50.0
+	}
+
+	TRN
+	{
+		BANKITEM_CODE 6
+		JUSTIFICATION "furniture shopping"
+		VAL 460.0
+	}
+
+	TRN
+	{
+		BANKITEM_CODE 6
+		JUSTIFICATION "food delivery"
+		VAL 21.5
+	}
+
+	TRN
+	{
+		BANKITEM_CODE 6
+		JUSTIFICATION "coffee"
+		VAL 6.0
+	}
+
+}
